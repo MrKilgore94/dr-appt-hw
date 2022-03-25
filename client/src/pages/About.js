@@ -6,7 +6,6 @@ const About = () => {
   return (
     <div>
       <h1>About Page</h1>
-      <p>find me in the pages/About.js</p>
 
       <h1>Features</h1>
       <Card>
@@ -19,7 +18,6 @@ const About = () => {
 
       <Card>
         <h3>Styled Components</h3>
-        
       </Card>
 
       <h3>Hooks</h3>
